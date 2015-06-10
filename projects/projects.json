@@ -3689,6 +3689,26 @@
         "Cloud"
       ]
     }
+,
+    {
+      "name": "VeganLosAngeles.com",
+      "thumb": "veganlosangeles/thumb.png",
+      "desc": "Vegan Los Angeles is a group aiming to promote the healthy vegan or plant-based diet by giving free-of-charge cooking demonstrations around the Los Angeles area.",
+      "url": "http://www.veganlosangels.com/",
+      "info": "http://www.veganlosangels.com/",
+      "submitter": "timqotu",
+      "submissionDate": "2015-06-10",
+      "tags": [
+        "Vegan",
+        "Restaurant",
+        "Recipe",
+        "jQuery",
+        "REST",
+        "API",
+        "Responsive",
+        "Bootstrap"
+      ]
+    }    
 
   ]
 }
